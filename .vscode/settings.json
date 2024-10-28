@@ -2,6 +2,7 @@
     "files.associations": {
         "*.embeddedhtml": "html",
         "*.php": "php",
-        "stdlib.h": "c"
+        "stdlib.h": "c",
+        "stdio.h": "c"
     }
 }
