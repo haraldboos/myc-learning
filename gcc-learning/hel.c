@@ -7,6 +7,7 @@ int main() {
         printf("Hello, World!\n"); // Print "Hello, World!"
         count++; // Increment the counter
     }
+    printf("conplete task");
 
     return 0; // Return 0 to indicate successful execution
 }
