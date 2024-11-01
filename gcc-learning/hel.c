@@ -8,7 +8,7 @@ int main() {
         count++; // Increment the counter
     }
     printf("conplete task");
-
+printf("consept done");
     return 0; // Return 0 to indicate successful execution
 }
 // print f ohhyhahahah
