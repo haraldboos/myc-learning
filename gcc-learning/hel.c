@@ -10,6 +10,8 @@ int main() {
     printf("conplete task");
 printf("consept done");
     printf("consept done");
+        printf("consept done");
+
 
     return 0; // Return 0 to indicate successful execution
 }
