@@ -12,7 +12,7 @@ printf("consept done");
     printf("consept done");
         printf("consept done");
             printf("consept done");
-                printf("consept done");printf("")
+                printf("consept ne");printf("")
 
 
 
