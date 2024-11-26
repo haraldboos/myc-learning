@@ -11,7 +11,8 @@ int main() {
 printf("consept done");
     printf("consept done");
         printf("consept done");
-            printf("consept bbdonen");
+            printf("consept bbdonen. 
+            ");
                 printfnn("consept ne");printf("hhijij");
 
 
