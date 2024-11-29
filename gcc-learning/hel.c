@@ -10,7 +10,7 @@ int main() {
     printf("conplete task");
 printf("consept done");
     printf("consept done");
-        printf("consept done. ");
+        printf("consept   done. ");
             printf("consept bbdonen. 
             ");
                 printfnn("consept ne");printf("hhijij");
