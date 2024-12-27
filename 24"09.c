@@ -47,7 +47,7 @@
 // }
 
 
-// struter arrsay
+// struter arrsayn
 struct oooma
 {
 int x,g;
