@@ -6,7 +6,7 @@ int main() {
     while (count < 5) { // Loop 5 times
         printf("Hello, World! \n"); // Print "Hello, World!"
         count++; // Increment the counter
-    } 
+    }   
     printf("conplete  task");
 printf("consept done");
     printf("consept done");
