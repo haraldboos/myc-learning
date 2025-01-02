@@ -1,6 +1,6 @@
    #include <stdio.h>
   
-int main() {
+int main() { 
     int count = 0; // Initialize a counter
 
     while (count < 5) { // Loop 5 times
