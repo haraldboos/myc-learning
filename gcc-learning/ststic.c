@@ -8,7 +8,7 @@ int fooo(){
 
 int main(){
     for(int i=0;i<10;i++){
-        printf("statck i cheak k print %d\n",fooo());
+        printf("statck i  cheak k print %d\n",fooo());
     }
     return 0;
 
