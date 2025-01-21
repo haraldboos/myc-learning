@@ -1,4 +1,4 @@
-  
+   
 // integer float to charater
 // #include<stdio.h>
 // #include<stdlib.h>
