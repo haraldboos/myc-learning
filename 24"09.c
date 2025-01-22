@@ -1,7 +1,7 @@
    
 // integer float to charater
 // #include<stdio.h>
-// #include<stdlib.h>
+// #include<stdlib.h> 
 // int main()
 // {
 //     char fuck[10]; 
