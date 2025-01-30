@@ -7,15 +7,6 @@ int main() {
         printf("Hello, World! \n"); // Print "Hello, World!"
         count++; // Increment the counter
     }   
-    printf("conplete  task");
-printf("consept done");
-    printf("consept done");
-        printf("consept   done. ");
-            printf("consept bbdonen. 
-            ");bb
-                printfnn("consept ne");printf("hhijij");
-
-
 
 
     return 0; // Return 0 to indicate successful execution
