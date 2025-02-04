@@ -6,6 +6,7 @@ struct ool1
     char m[50];
 };
 union fk1
+
 {
 int y;
 char s3[50];
