@@ -4,6 +4,7 @@
 //     for(int i=1;i<128;i++){
 //         printf("ASCII %d => %c ==> %s\n",i,i,i);
 //     }234
+
 //  }
 
 // pointers
