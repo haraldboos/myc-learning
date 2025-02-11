@@ -45,7 +45,7 @@
 //     printf("oopai ools (miya,sunny) %d,%d",ool3.miya,ool3.sunny);
 // }
 
-
+  
 // struter arrsayn
 struct oooma
 {
