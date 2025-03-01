@@ -1,4 +1,4 @@
-// union
+ // union
 #include<stdio.h>
 struct ool1
 {
