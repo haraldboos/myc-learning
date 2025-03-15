@@ -7,7 +7,7 @@ struct ool1
 };
 union fk1
 
-{
+{ 
 int y;
 char s3[50];
 };
