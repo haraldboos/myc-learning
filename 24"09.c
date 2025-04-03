@@ -4,7 +4,7 @@
 // int main()
 // {
 //     char fuck[10]; 
-//     float miya; 
+//     float miya;  
 //     printf("enter th sex ssss ahah:-: %c\n",fuck);
 //     scanf("%f",&miya);
 //     sprintf(fuck,"%f",miya);
