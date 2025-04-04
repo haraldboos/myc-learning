@@ -2,7 +2,7 @@
 // #include<stdio.h>
 // #include<stdlib.h> 
 // int main()
-// {
+// { 
 //     char fuck[10]; 
 //     float miya;  
 //     printf("enter th sex ssss ahah:-: %c\n",fuck);
