@@ -9,7 +9,7 @@
 //     scanf("%f",&miya);
 //     sprintf(fuck,"%f",miya);
 //     printf("enter th sex ssss ahah:-: %s\n",fuck);
-// } 
+// }  
  
 // charater to integer
 // #include <stdio.h>
